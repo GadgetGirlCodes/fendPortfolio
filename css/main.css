@@ -63,11 +63,19 @@ header {
   font-size: 26px;
 }
 
+.projectImage {
+  width: 450px;
+  max-width: 33%;
+  max-height: 25%;
+  margin: auto;
+}
+
 /* Social Media Icons/Links */
 .social {
   justify-content: center;
   align-content: space-around;
 }
+
 .social img{
   width: 25px;
   height: 25px;
@@ -75,14 +83,6 @@ header {
 
 footer {
   text-align: center;
-}
-
-
-.projectImage {
-  width: 450px;
-  max-width: 33%;
-  max-height: 25%;
-  margin: auto;
 }
 
 /*Layout Class for Design - comment out*/
