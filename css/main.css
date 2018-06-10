@@ -53,7 +53,9 @@ header {
 #about {
   justify-content: center;
   max-width: 50%;
+  margin: auto;
 }
+  
 
 /* Featured Works */
 .container {
